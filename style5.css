@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+}
+
+header{
+    font-family: "console", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: orange;
+    text-align: center;
+    padding: 48px;
+    color: beige;
+    font-size: 46px;
+}
+
+.navBar{
+    background-color: gainsboro;
+    padding:40px;
+}
+
+.H, .A, .F, .S {
+    font-size: 24px;
+}
+
+.H{
+    text-align: right;
+    width: 60%;
+    float: left;
+}
+
+.A{
+    text-align: right;
+    float: left;
+    width: 10%;
+}
+
+.F{
+    text-align: right;
+    float: left;
+    width: 10%;
+}
+
+.S{
+    text-align: right;
+    float: left;
+    width: 10%;
+}
+
+.S a:hover{
+    color:beige;
+    background: goldenrod;
+}
+
+.F a:hover{
+    color:beige;
+    background: goldenrod;
+}
+
+.A a:hover{
+    color:beige;
+    background: goldenrod;
+}
+
+.H a:hover{
+    color:beige;
+    background: goldenrod;
+}
+
+
+
+h2 {
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: dashed;
+
+}
+
+.system {
+    display: flex;
+    height:600px;
+    width:600px;
+    margin-left: 40%;
+    margin-right: 40%;
+    position: relative;
+}
+
+section li{
+    font-size: 24px;
+    text-align: left;
+    margin-left: 40%;
+}
+
+footer{
+    display: block;
+    clear: both;
+    border-top: solid;
+    border-color: rgb(0, 0, 0);
+    height: 240px;
+    background: rgb(189, 189, 189);
+}
+
+h3{
+    padding-left: 10px;
+}
+
+.Finfo {
+    padding-left: 20px;
+    padding-top: 5px;
+    float: left;
+    width: 40%;
+}
+
+.BMInfo {
+    float:left;
+    margin-top: -40px;
+    margin-right: -10px;
+    width:40%;
+}
+
+.WV {
+    float: left;
+    width: 10%;
+    margin-top: 20px;
+}

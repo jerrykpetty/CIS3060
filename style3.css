@@ -1,0 +1,170 @@
+.header{
+    padding: 10px;
+    text-align: center;
+}
+
+.header h1{
+    font-size: 40px;
+    color: #000000;
+    font-weight: bold;
+
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background: rgb(23, 206, 6);
+    margin: -10px;
+    position: static;
+    background-image: url("school1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.contain1 {
+    border: inset;
+    font-size: 24px;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    color: antiquewhite;
+    text-align: center;
+    border-width: 8px;
+    border-color: gold;
+    padding: 5px;
+    position: sticky;
+    position: fixed;
+    top:0px;
+}
+
+h2{
+    color:#000000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* h3{
+    color: #000000;
+    font-style: italic;
+    font-size:20px;
+    position: fixed;
+    margin-bottom: 30%;
+
+} */
+
+h4{
+    font-size: 12px;
+    font-weight: bold;
+    color:#000000;
+}
+
+.topA{
+    background: yellow;
+    top: 0;
+    position: fixed;
+    /* display: block; */
+    height: 5%;
+    width:100%;
+    /* display: flex;
+    justify-content: space-evenly; */
+
+}
+
+
+
+.H a{
+    font-size: 20px;
+    right: 40%;
+    position: absolute;
+}
+
+.A a{
+    font-size: 20px;
+    right: 30%;
+    position: absolute;
+
+}
+
+.F a{
+    font-size: 20px;
+    right: 20%;
+    position: absolute;   
+}
+
+.S a{
+    font-size: 20px;
+    right: 10%;
+    position: absolute; 
+}
+
+.H a:hover{
+    background-color: aquamarine;
+}
+
+.A a:hover{
+    background-color: aquamarine;
+}
+
+.F a:hover{
+    background-color: aquamarine;
+}
+
+.S a:hover{
+    background-color: aquamarine;
+}
+
+.survy{
+    border: outset;
+    border-color: yellow;
+    border-radius: 5%;
+    padding: 20px;
+    display:block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: antiquewhite;
+    position: absolute;
+    top: 15%;
+    bottom: 35%;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+    
+}
+
+.BBS{
+    display: block;
+    bottom:0;
+    position: fixed;
+    border-top: solid;
+    border-color: #000000;
+    background: rgb(202, 202, 202);
+    height: 20%;
+    width:100%;
+    /* padding:10px; */
+}
+
+
+
+.BLInfo{
+    margin-top: auto;
+    margin-left: auto;
+    position: absolute;
+}
+
+
+.BMInfo{
+    margin-right: 50%;
+    margin-left: 50%;
+    position: absolute;
+}
+
+.WV {
+    bottom: 5%;
+    right: 5%;
+    position: absolute;
+}

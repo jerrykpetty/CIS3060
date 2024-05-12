@@ -3,11 +3,6 @@
     display: block;
 }
 
-.circle-image img {
-    border-radius: 50%;
-    overflow: hidden;
-}
-
 body {
     background-color: blanchedalmond;
     font-family: Arial;
